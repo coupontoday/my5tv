@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for My5 TV setup guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+    <meta name="description" content="Activate My5 TV easily at my5.tv/activate. Learn how to download the My5 app, enter your activation code, and start streaming Channel 5’s top programs and exclusive content on any device." />
+    <meta name="keywords" content="my5.tv/activate, My5 TV activation, Channel 5 streaming, My5 app setup, My5 activation code" />
+    <meta name="robots" content="index, follow" />
+    <title>Activate My5 TV at my5.tv/activate – Complete Streaming Guide</title>
+    {{ super() }}
+{% endblock %}
