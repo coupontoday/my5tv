@@ -16,7 +16,7 @@ What is My5 TV?
 
 My5 TV is Channel 5’s free streaming service, giving you access to a huge library of catch-up content, box sets, and exclusive programs. You can watch on smart TVs, mobile apps, and streaming devices like Roku, Fire TV, and Apple TV.
 
-Step-by-Step: How to Activate My5 on Your TV
+Step-by-Step to Activate My5 on Your TV
 --------------------------------------------
 
 1. **Download the My5 App**
