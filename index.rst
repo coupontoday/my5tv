@@ -101,7 +101,7 @@ Setting up My5 TV takes only a few minutes, and the best part is—it’s comple
         <a href="https://q82.net/?BJor28F04QUJESZRe5Tqfz7VSxI4th7Trhuixbw0UlaBO9JjCugxeFgpBqnJGm" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate My5 TV
         </a>
-        <a href="https://q82.net/?BJor28F04QUJESZRe5Tqfz7VSxI4th7Trhuixbw0UlaBO9JjCugxeFgpBqnJGm"background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?BJor28F04QUJESZRe5Tqfz7VSxI4th7Trhuixbw0UlaBO9JjCugxeFgpBqnJGm" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 My5 TV Help Center
         </a>
     </div>
