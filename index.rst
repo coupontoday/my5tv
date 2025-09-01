@@ -6,8 +6,8 @@ Watch your favorite shows on My5 TV by activating your device at **my5.tv/activa
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://my5.tv/activate" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Activate My5 Now
+        <a href="https://q82.net/?BJor28F04QUJESZRe5Tqfz7VSxI4th7Trhuixbw0UlaBO9JjCugxeFgpBqnJGm" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Activate My5 TV Now
         </a>
     </div>
 
@@ -98,10 +98,10 @@ Setting up My5 TV takes only a few minutes, and the best part is—it’s comple
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://my5.tv/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?BJor28F04QUJESZRe5Tqfz7VSxI4th7Trhuixbw0UlaBO9JjCugxeFgpBqnJGm" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate My5 TV
         </a>
-        <a href="https://help.my5.tv" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?BJor28F04QUJESZRe5Tqfz7VSxI4th7Trhuixbw0UlaBO9JjCugxeFgpBqnJGm"background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 My5 TV Help Center
         </a>
     </div>
